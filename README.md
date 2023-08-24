@@ -5,7 +5,7 @@ This is the backend server for Food Train, an online food-ordering platform. It 
 ## Getting Started
 To set up the backend server locally, follow these steps:
 
-  1. Clone the repository: git clone https://github.com/IT21158018/ITP-FoodOrder-Backend.git
+  1. Clone the repository: git clone https://github.com/AsryAhamed/ITP-FoodOrder-Backend.git
   2. Install dependencies: yarn
   3. Set up the database: 
   4. Configure environment variables: .env 

@@ -27,4 +27,3 @@ The backend server is built using the following technologies and frameworks:
   1. Node.js
   2. Express.js
   3. MongoDB 
-  4. JSON Web Tokens (JWT) for authentication
